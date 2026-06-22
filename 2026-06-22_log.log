@@ -1,0 +1,242 @@
+2026-06-22 18:00:12 Arduino IDE 2.3.6
+2026-06-22 18:00:12 Checking for frontend application configuration customizations. Module path: C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\electron-main.js, destination 'package.json': C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\package.json
+2026-06-22 18:00:12 Setting 'theia.frontend.config.appVersion' application configuration value to: "2.3.6" (type of string)
+2026-06-22 18:00:12 Setting 'theia.frontend.config.cliVersion' application configuration value to: "1.2.0" (type of string)
+2026-06-22 18:00:12 Setting 'theia.frontend.config.buildDate' application configuration value to: "2025-04-09T11:26:55.498Z" (type of string)
+2026-06-22 18:00:12 Frontend application configuration after modifications: {"applicationName":"Arduino IDE","defaultTheme":{"light":"arduino-theme","dark":"arduino-theme-dark"},"defaultIconTheme":"none","electron":{"windowOptions":{},"showWindowEarly":true,"splashScreenOptions":{},"uriScheme":"arduino-ide"},"defaultLocale":"","validatePreferencesSchema":false,"reloadOnReconnect":true,"uriScheme":"theia","preferences":{"window.title":"${rootName}${activeEditorShort}${appName}","files.autoSave":"afterDelay","editor.minimap.enabled":false,"editor.tabSize":2,"editor.scrollBeyondLastLine":false,"editor.quickSuggestions":{"other":false,"comments":false,"strings":false},"editor.maxTokenizationLineLength":500,"editor.bracketPairColorization.enabled":false,"breadcrumbs.enabled":false,"workbench.tree.renderIndentGuides":"none","explorer.compactFolders":false},"appVersion":"2.3.6","cliVersion":"1.2.0","buildDate":"2025-04-09T11:26:55.498Z"}
+2026-06-22 18:00:12 Starting backend process. PID: 12616
+2026-06-22 18:00:12 Showing main window early
+2026-06-22 18:00:12 Using browser-only version of superagent in non-browser environment
+2026-06-22 18:00:12 Configuration directory URI: 'file:///c%3A/Users/Sepehr/.arduinoIDE'
+2026-06-22 18:00:12 Configuring to accept webviews on '^.+\.webview\..+$' hostname.
+2026-06-22 18:00:12 2026-06-23T01:00:12.902Z root INFO Backend u.initialize: 27.8 ms [Finished 0.588 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.903Z root INFO Backend Object.initialize: 26.3 ms [Finished 0.588 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.903Z root INFO Backend a.initialize: 1.4 ms [Finished 0.589 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.903Z root INFO Backend a.initialize: 1.1 ms [Finished 0.589 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.903Z root INFO Backend u.initialize: 1.4 ms [Finished 0.589 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.905Z root INFO Backend l.initialize: 26.5 ms [Finished 0.590 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.911Z root INFO configured all backend app contributions
+2026-06-22 18:00:12 2026-06-23T01:00:12.912Z root INFO Backend l.onStart: 1.2 ms [Finished 0.599 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.912Z root INFO Backend d.onStart: 0.2 ms [Finished 0.599 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.913Z root INFO Backend a.onStart: 0.3 ms [Finished 0.600 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.913Z config INFO >>> Initializing CLI configuration...
+2026-06-22 18:00:12 2026-06-23T01:00:12.913Z root INFO Backend x.onStart: 0.3 ms [Finished 0.600 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.913Z config INFO Loading CLI configuration from c:\Users\Sepehr\.arduinoIDE\arduino-cli.yaml...
+2026-06-22 18:00:12 2026-06-23T01:00:12.913Z daemon INFO Starting daemon from C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\arduino-cli.exe...
+2026-06-22 18:00:12 2026-06-23T01:00:12.913Z root INFO Backend w.onStart: 0.3 ms [Finished 0.601 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.913Z discovery-log INFO start
+2026-06-22 18:00:12 2026-06-23T01:00:12.913Z discovery-log INFO start new deferred
+2026-06-22 18:00:12 2026-06-23T01:00:12.913Z root INFO Backend v.onStart: 0.2 ms [Finished 0.601 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.913Z root INFO Backend a.onStart: 0.1 ms [Finished 0.601 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.917Z root INFO Theia app listening on http://127.0.0.1:58368.
+2026-06-22 18:00:12 2026-06-23T01:00:12.917Z root INFO Finished starting backend application: 3.8 ms [Finished 0.605 s after backend start]
+2026-06-22 18:00:12 Restoring workspace roots: f:\Projects\LaserLink\Arduino\DigitalCalibration\DigitalCalibration.ino
+2026-06-22 18:00:12 isTempSketch: false. Input was f:\Projects\LaserLink\Arduino\DigitalCalibration\DigitalCalibration.ino
+2026-06-22 18:00:12 2026-06-23T01:00:12.931Z root WARN The local plugin referenced by local-dir:/c%3A/Users/Sepehr/.arduinoIDE/plugins does not exist.
+2026-06-22 18:00:12 2026-06-23T01:00:12.931Z root WARN The local plugin referenced by local-dir:/c%3A/Users/Sepehr/.arduinoIDE/deployedPlugins does not exist.
+2026-06-22 18:00:12 2026-06-23T01:00:12.931Z root WARN The local plugin referenced by local-dir:C:\Users\Sepehr\.arduinoIDE\plugins does not exist.
+2026-06-22 18:00:12 2026-06-23T01:00:12.971Z root INFO Resolve plugins list: 56.8 ms [Finished 0.659 s after backend start]
+2026-06-22 18:00:12 2026-06-23T01:00:12.985Z daemon INFO time="2026-06-22T18:00:12-07:00" level=info msg="arduino-cli version 1.2.0"
+2026-06-22 18:00:13 2026-06-23T01:00:13.000Z config INFO Loading CLI configuration from c:\Users\Sepehr\.arduinoIDE\arduino-cli.yaml...
+2026-06-22 18:00:13 2026-06-23T01:00:13.016Z daemon INFO time="2026-06-22T18:00:13-07:00" level=info msg="Using config file: c:\\Users\\Sepehr\\.arduinoIDE\\arduino-cli.yaml"
+time="2026-06-22T18:00:13-07:00" level=info msg="Executing `arduino-cli daemon`"
+Daemon is now listening on 127.0.0.1:58369
+{"IP":"127.0.0.1","Port":"58369"}
+2026-06-22 18:00:13 2026-06-23T01:00:13.017Z daemon INFO Daemon is running.
+2026-06-22 18:00:13 2026-06-23T01:00:13.040Z config INFO Loaded CLI configuration: {"board_manager":{"additional_urls":[]}}
+2026-06-22 18:00:13 2026-06-23T01:00:13.040Z config INFO Loading fallback CLI configuration to get 'directories.data' and 'directories.user'
+2026-06-22 18:00:13 2026-06-23T01:00:13.052Z daemon INFO time="2026-06-22T18:00:13-07:00" level=info msg="Starting download" url="https://downloads.arduino.cc/libraries/library_index.tar.bz2"
+2026-06-22 18:00:13 2026-06-23T01:00:13.072Z root ERROR Detected an error response during the gRPC core client initialization: code: 3, message: Error downloading index 'https://downloads.arduino.cc/libraries/library_index.tar.bz2': Get "https://downloads.arduino.cc/libraries/library_index.tar.bz2": dial tcp: lookup downloads.arduino.cc: no such host
+2026-06-22 18:00:13 2026-06-23T01:00:13.072Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Loading index file: loading json index file C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: The system cannot find the file specified.
+2026-06-22 18:00:13 2026-06-23T01:00:13.073Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Error loading hardware platform: discovery builtin:serial-discovery not found
+2026-06-22 18:00:13 2026-06-23T01:00:13.073Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Error loading hardware platform: discovery builtin:mdns-discovery not found
+2026-06-22 18:00:13 2026-06-23T01:00:13.073Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Loading index file: reading library_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\library_index.json: The system cannot find the file specified.
+2026-06-22 18:00:13 2026-06-23T01:00:13.074Z daemon INFO time="2026-06-22T18:00:13-07:00" level=info msg="Loading hardware from: C:\\Users\\Sepehr\\AppData\\Local\\Arduino15\\packages"
+time="2026-06-22T18:00:13-07:00" level=info msg="Loading libraries index file" index="C:\\Users\\Sepehr\\AppData\\Local\\Arduino15\\library_index.json"
+time="2026-06-22T18:00:13-07:00" level=info msg="Adding libraries dir" dir="C:\\Users\\Sepehr\\AppData\\Local\\Arduino15\\libraries" isSingleLibrary=false location=ide
+time="2026-06-22T18:00:13-07:00" level=info msg="Adding libraries dir" dir="C:\\Users\\Sepehr\\Documents\\Arduino\\libraries" isSingleLibrary=false location=user
+2026-06-22 18:00:13 2026-06-23T01:00:13.104Z config INFO Loaded fallback CLI configuration: {"directories":{"user":"C:\\Users\\Sepehr\\Documents\\Arduino","data":"C:\\Users\\Sepehr\\AppData\\Local\\Arduino15"}}
+2026-06-22 18:00:13 2026-06-23T01:00:13.104Z config INFO Merged CLI configuration with the fallback: {"directories":{"user":"C:\\Users\\Sepehr\\Documents\\Arduino","data":"C:\\Users\\Sepehr\\AppData\\Local\\Arduino15"},"board_manager":{"additional_urls":[]}}
+2026-06-22 18:00:13 2026-06-23T01:00:13.104Z config INFO Loaded the CLI configuration.
+2026-06-22 18:00:13 2026-06-23T01:00:13.107Z config INFO Mapped the CLI configuration: {"dataDirUri":"file:///c%3A/Users/Sepehr/AppData/Local/Arduino15","sketchDirUri":"file:///c%3A/Users/Sepehr/Documents/Arduino","additionalUrls":[],"network":"none","locale":"en"}
+2026-06-22 18:00:13 2026-06-23T01:00:13.107Z config INFO Validating the CLI configuration...
+2026-06-22 18:00:13 2026-06-23T01:00:13.110Z config INFO The CLI config is valid.
+2026-06-22 18:00:13 2026-06-23T01:00:13.110Z config INFO <<< Initialized the CLI configuration.
+2026-06-22 18:00:13 2026-06-23T01:00:13.111Z root ERROR The primary packages indexes are missing. Running indexes update before initializing the core gRPC client The index of the cores and libraries must be updated before initializing the core gRPC client.
+The following problems were detected during the gRPC client initialization:
+[platform-index] - code: 9, message: Loading index file: loading json index file C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: The system cannot find the file specified.
+[platform-index] - code: 9, message: Error loading hardware platform: discovery builtin:serial-discovery not found
+[platform-index] - code: 9, message: Error loading hardware platform: discovery builtin:mdns-discovery not found
+[library-index] - code: 9, message: Loading index file: reading library_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\library_index.json: The system cannot find the file specified.
+
+2026-06-22 18:00:13 2026-06-23T01:00:13.114Z daemon INFO time="2026-06-22T18:00:13-07:00" level=info msg="Updating index" url="https://downloads.arduino.cc/packages/package_index.tar.bz2"
+time="2026-06-22T18:00:13-07:00" level=info msg="Starting download" url="https://downloads.arduino.cc/packages/package_index.tar.bz2"
+time="2026-06-22T18:00:13-07:00" level=info msg="Starting download" url="https://downloads.arduino.cc/libraries/library_index.tar.bz2"
+2026-06-22 18:00:13 2026-06-23T01:00:13.116Z root INFO core-client-provider [platform-index] Downloading index: package_index.tar.bz2
+
+2026-06-22 18:00:13 2026-06-23T01:00:13.116Z root INFO core-client-provider [library-index] Downloading index: library_index.tar.bz2
+
+2026-06-22 18:00:13 2026-06-23T01:00:13.118Z root ERROR Failed to update platform, library indexes. Error: 13 INTERNAL: Error downloading index 'https://downloads.arduino.cc/libraries/library_index.tar.bz2': Get "https://downloads.arduino.cc/libraries/library_index.tar.bz2": dial tcp: lookup downloads.arduino.cc: no such host
+    at t.callErrorFromStatus (C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:3089094)
+    at Object.onReceiveStatus (C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:6681994)
+    at Object.onReceiveStatus (C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:2571739)
+    at C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:4307911
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+for call at
+    at s.makeServerStreamRequest (C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:6681761)
+    at s.updateLibrariesIndex (C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:3088187)
+    at C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:6284984
+    at C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:6285177
+    at new Promise (<anonymous>)
+    at y.doUpdateIndex (C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:6285156)
+    at y.updateLibraryIndex (C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:6284956)
+    at y.updateIndex (C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:6284230)
+    at y.initInstanceWithFallback (C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:6282462)
+    at async y.create (C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:6282074)
+2026-06-22 18:00:13 2026-06-23T01:00:13.123Z daemon INFO time="2026-06-22T18:00:13-07:00" level=info msg="Starting download" url="https://downloads.arduino.cc/libraries/library_index.tar.bz2"
+time="2026-06-22T18:00:13-07:00" level=info msg="Loading hardware from: C:\\Users\\Sepehr\\AppData\\Local\\Arduino15\\packages"
+time="2026-06-22T18:00:13-07:00" level=info msg="Loading libraries index file" index="C:\\Users\\Sepehr\\AppData\\Local\\Arduino15\\library_index.json"
+time="2026-06-22T18:00:13-07:00" level=info msg="Adding libraries dir" dir="C:\\Users\\Sepehr\\AppData\\Local\\Arduino15\\libraries" isSingleLibrary=false location=ide
+time="2026-06-22T18:00:13-07:00" level=info msg="Adding libraries dir" dir="C:\\Users\\Sepehr\\Documents\\Arduino\\libraries" isSingleLibrary=false location=user
+2026-06-22 18:00:13 2026-06-23T01:00:13.124Z root ERROR Detected an error response during the gRPC core client initialization: code: 3, message: Error downloading index 'https://downloads.arduino.cc/libraries/library_index.tar.bz2': Get "https://downloads.arduino.cc/libraries/library_index.tar.bz2": dial tcp: lookup downloads.arduino.cc: no such host
+2026-06-22 18:00:13 2026-06-23T01:00:13.124Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Loading index file: loading json index file C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: The system cannot find the file specified.
+2026-06-22 18:00:13 2026-06-23T01:00:13.124Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Error loading hardware platform: discovery builtin:serial-discovery not found
+2026-06-22 18:00:13 2026-06-23T01:00:13.124Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Error loading hardware platform: discovery builtin:mdns-discovery not found
+2026-06-22 18:00:13 2026-06-23T01:00:13.124Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Loading index file: reading library_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\library_index.json: The system cannot find the file specified.
+2026-06-22 18:00:13 2026-06-23T01:00:13.125Z root ERROR Uncaught Exception:  Error: The index of the cores and libraries must be updated before initializing the core gRPC client.
+The following problems were detected during the gRPC client initialization:
+[platform-index] - code: 9, message: Loading index file: loading json index file C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: The system cannot find the file specified.
+[platform-index] - code: 9, message: Error loading hardware platform: discovery builtin:serial-discovery not found
+[platform-index] - code: 9, message: Error loading hardware platform: discovery builtin:mdns-discovery not found
+[library-index] - code: 9, message: Loading index file: reading library_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\library_index.json: The system cannot find the file specified.
+
+2026-06-22 18:00:13 2026-06-23T01:00:13.125Z root ERROR Error: The index of the cores and libraries must be updated before initializing the core gRPC client.
+The following problems were detected during the gRPC client initialization:
+[platform-index] - code: 9, message: Loading index file: loading json index file C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: The system cannot find the file specified.
+[platform-index] - code: 9, message: Error loading hardware platform: discovery builtin:serial-discovery not found
+[platform-index] - code: 9, message: Error loading hardware platform: discovery builtin:mdns-discovery not found
+[library-index] - code: 9, message: Loading index file: reading library_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\library_index.json: The system cannot find the file specified.
+
+    at C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:6283973
+    at y.evaluateErrorStatus (C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:6283989)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async a.<anonymous> (C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\main.js:2:6283659)
+2026-06-22 18:00:13 2026-06-23T01:00:13.406Z root INFO Deploy plugins list: 492.4 ms [Finished 1.094 s after backend start]
+2026-06-22 18:00:14 2026-06-23T01:00:14.071Z root INFO creating connection for 1
+2026-06-22 18:00:14 2026-06-23T01:00:14.861Z root WARN Frontend a.configure took longer than the expected maximum 100 milliseconds: 105.5 ms [Finished 1.935 s after frontend start]
+2026-06-22 18:00:14 2026-06-23T01:00:14.888Z root WARN A command editor.action.toggleStickyScroll is already registered.
+2026-06-22 18:00:14 Opening channel for service path '/services/electron-window'.
+2026-06-22 18:00:14 Opening channel for service path '/services/ide-updater'.
+2026-06-22 18:00:14 2026-06-23T01:00:14.991Z root INFO Start frontend contributions: 283.9 ms [Finished 2.052 s after frontend start]
+2026-06-22 18:00:14 2026-06-23T01:00:14.991Z root INFO Changed application state from 'init' to 'started_contributions'.
+2026-06-22 18:00:15 2026-06-23T01:00:15.005Z root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+2026-06-22 18:00:15 2026-06-23T01:00:15.005Z root INFO >>> Restoring the layout state...
+2026-06-22 18:00:15 2026-06-23T01:00:15.031Z root INFO [40511652-05c7-40b8-b70d-f44ba1d975f2] Waiting for backend deployment: 53.5 ms [Finished 2.101 s after frontend start]
+2026-06-22 18:00:15 2026-06-23T01:00:15.546Z root INFO [hosted-plugin: 18152] PLUGIN_HOST(18152) starting instance
+[Object: null prototype] {}
+2026-06-22 18:00:16 2026-06-23T01:00:16.052Z root INFO [40511652-05c7-40b8-b70d-f44ba1d975f2] Sync of 23 plugins: 1024.2 ms [Finished 3.125 s after frontend start]
+2026-06-22 18:08:21 isTempSketch: false. Input was f:\Projects\LaserLink\Arduino\DigitalCalibration\DigitalCalibration.ino
+2026-06-22 18:08:21 Marking workspace as a closed sketch. Workspace URI: file:///f%3A/Projects/LaserLink/Arduino/DigitalCalibration/DigitalCalibration.ino. Date: 1782176901706.
+2026-06-22 18:08:21 Closing channel on service path '/services/electron-window'.
+2026-06-22 18:08:21 Closing channel on service path '/services/ide-updater'.
+2026-06-22 18:08:21 Storing the sketch as a workspace root: <f:\Projects\LaserLink\Arduino\DigitalCalibration\DigitalCalibration.ino>.
+2026-06-22 18:08:21 Stored workspaces roots: f:\Projects\LaserLink\Arduino\DigitalCalibration\DigitalCalibration.ino
+2026-06-22 18:08:21 No sketches were scheduled for deletion.
+2026-06-22 18:15:17 Arduino IDE 2.3.6
+2026-06-22 18:15:17 Checking for frontend application configuration customizations. Module path: C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\electron-main.js, destination 'package.json': C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\package.json
+2026-06-22 18:15:17 Setting 'theia.frontend.config.appVersion' application configuration value to: "2.3.6" (type of string)
+2026-06-22 18:15:17 Setting 'theia.frontend.config.cliVersion' application configuration value to: "1.2.0" (type of string)
+2026-06-22 18:15:17 Setting 'theia.frontend.config.buildDate' application configuration value to: "2025-04-09T11:26:55.498Z" (type of string)
+2026-06-22 18:15:17 Frontend application configuration after modifications: {"applicationName":"Arduino IDE","defaultTheme":{"light":"arduino-theme","dark":"arduino-theme-dark"},"defaultIconTheme":"none","electron":{"windowOptions":{},"showWindowEarly":true,"splashScreenOptions":{},"uriScheme":"arduino-ide"},"defaultLocale":"","validatePreferencesSchema":false,"reloadOnReconnect":true,"uriScheme":"theia","preferences":{"window.title":"${rootName}${activeEditorShort}${appName}","files.autoSave":"afterDelay","editor.minimap.enabled":false,"editor.tabSize":2,"editor.scrollBeyondLastLine":false,"editor.quickSuggestions":{"other":false,"comments":false,"strings":false},"editor.maxTokenizationLineLength":500,"editor.bracketPairColorization.enabled":false,"breadcrumbs.enabled":false,"workbench.tree.renderIndentGuides":"none","explorer.compactFolders":false},"appVersion":"2.3.6","cliVersion":"1.2.0","buildDate":"2025-04-09T11:26:55.498Z"}
+2026-06-22 18:15:17 Starting backend process. PID: 20472
+2026-06-22 18:15:17 Showing main window early
+2026-06-22 18:15:18 Using browser-only version of superagent in non-browser environment
+2026-06-22 18:15:18 Configuration directory URI: 'file:///c%3A/Users/Sepehr/.arduinoIDE'
+2026-06-22 18:15:18 Configuring to accept webviews on '^.+\.webview\..+$' hostname.
+2026-06-22 18:15:18 2026-06-23T01:15:18.682Z root INFO Backend u.initialize: 28.7 ms [Finished 0.752 s after backend start]
+2026-06-22 18:15:18 2026-06-23T01:15:18.683Z root INFO Backend Object.initialize: 27.1 ms [Finished 0.752 s after backend start]
+2026-06-22 18:15:18 2026-06-23T01:15:18.683Z root INFO Backend a.initialize: 1.3 ms [Finished 0.752 s after backend start]
+2026-06-22 18:15:18 2026-06-23T01:15:18.683Z root INFO Backend a.initialize: 1.1 ms [Finished 0.752 s after backend start]
+2026-06-22 18:15:18 2026-06-23T01:15:18.683Z root INFO Backend u.initialize: 1.4 ms [Finished 0.752 s after backend start]
+2026-06-22 18:15:18 2026-06-23T01:15:18.685Z root INFO Backend l.initialize: 27.2 ms [Finished 0.753 s after backend start]
+2026-06-22 18:15:18 2026-06-23T01:15:18.692Z root INFO configured all backend app contributions
+2026-06-22 18:15:18 2026-06-23T01:15:18.692Z root INFO Backend l.onStart: 1.4 ms [Finished 0.763 s after backend start]
+2026-06-22 18:15:18 2026-06-23T01:15:18.693Z root INFO Backend d.onStart: 0.2 ms [Finished 0.763 s after backend start]
+2026-06-22 18:15:18 2026-06-23T01:15:18.694Z root INFO Backend a.onStart: 0.4 ms [Finished 0.764 s after backend start]
+2026-06-22 18:15:18 2026-06-23T01:15:18.694Z config INFO >>> Initializing CLI configuration...
+2026-06-22 18:15:18 2026-06-23T01:15:18.694Z root INFO Backend x.onStart: 0.6 ms [Finished 0.764 s after backend start]
+2026-06-22 18:15:18 2026-06-23T01:15:18.694Z config INFO Loading CLI configuration from c:\Users\Sepehr\.arduinoIDE\arduino-cli.yaml...
+2026-06-22 18:15:18 2026-06-23T01:15:18.694Z daemon INFO Starting daemon from C:\Users\Sepehr\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\arduino-cli.exe...
+2026-06-22 18:15:18 2026-06-23T01:15:18.694Z root INFO Backend w.onStart: 0.3 ms [Finished 0.765 s after backend start]
+2026-06-22 18:15:18 2026-06-23T01:15:18.694Z discovery-log INFO start
+2026-06-22 18:15:18 2026-06-23T01:15:18.694Z discovery-log INFO start new deferred
+2026-06-22 18:15:18 2026-06-23T01:15:18.694Z root INFO Backend v.onStart: 0.2 ms [Finished 0.766 s after backend start]
+2026-06-22 18:15:18 2026-06-23T01:15:18.694Z root INFO Backend a.onStart: 0.1 ms [Finished 0.766 s after backend start]
+2026-06-22 18:15:18 2026-06-23T01:15:18.698Z root INFO Theia app listening on http://127.0.0.1:51354.
+2026-06-22 18:15:18 2026-06-23T01:15:18.699Z root INFO Finished starting backend application: 4.2 ms [Finished 0.770 s after backend start]
+2026-06-22 18:15:19 Restoring workspace roots: f:\Projects\LaserLink\Arduino\DigitalCalibration\DigitalCalibration.ino
+2026-06-22 18:15:19 isTempSketch: false. Input was f:\Projects\LaserLink\Arduino\DigitalCalibration\DigitalCalibration.ino
+2026-06-22 18:15:19 2026-06-23T01:15:19.406Z root WARN The local plugin referenced by local-dir:/c%3A/Users/Sepehr/.arduinoIDE/plugins does not exist.
+2026-06-22 18:15:19 2026-06-23T01:15:19.406Z root WARN The local plugin referenced by local-dir:/c%3A/Users/Sepehr/.arduinoIDE/deployedPlugins does not exist.
+2026-06-22 18:15:19 2026-06-23T01:15:19.406Z root WARN The local plugin referenced by local-dir:C:\Users\Sepehr\.arduinoIDE\plugins does not exist.
+2026-06-22 18:15:19 2026-06-23T01:15:19.420Z config INFO Loaded CLI configuration: {"board_manager":{"additional_urls":[]}}
+2026-06-22 18:15:19 2026-06-23T01:15:19.421Z config INFO Loading fallback CLI configuration to get 'directories.data' and 'directories.user'
+2026-06-22 18:15:19 2026-06-23T01:15:19.465Z daemon INFO time="2026-06-22T18:15:19-07:00" level=info msg="arduino-cli version 1.2.0"
+2026-06-22 18:15:19 2026-06-23T01:15:19.465Z daemon INFO time="2026-06-22T18:15:19-07:00" level=info msg="Using config file: c:\\Users\\Sepehr\\.arduinoIDE\\arduino-cli.yaml"
+time="2026-06-22T18:15:19-07:00" level=info msg="Executing `arduino-cli daemon`"
+2026-06-22 18:15:19 2026-06-23T01:15:19.483Z daemon INFO Daemon is now listening on 127.0.0.1:64091
+{"IP":"127.0.0.1","Port":"64091"}
+2026-06-22 18:15:19 2026-06-23T01:15:19.483Z daemon INFO Daemon is running.
+2026-06-22 18:15:19 2026-06-23T01:15:19.486Z config INFO Loaded fallback CLI configuration: {"directories":{"user":"C:\\Users\\Sepehr\\Documents\\Arduino","data":"C:\\Users\\Sepehr\\AppData\\Local\\Arduino15"}}
+2026-06-22 18:15:19 2026-06-23T01:15:19.486Z config INFO Merged CLI configuration with the fallback: {"directories":{"user":"C:\\Users\\Sepehr\\Documents\\Arduino","data":"C:\\Users\\Sepehr\\AppData\\Local\\Arduino15"},"board_manager":{"additional_urls":[]}}
+2026-06-22 18:15:19 2026-06-23T01:15:19.486Z config INFO Loaded the CLI configuration.
+2026-06-22 18:15:19 2026-06-23T01:15:19.509Z config INFO Mapped the CLI configuration: {"dataDirUri":"file:///c%3A/Users/Sepehr/AppData/Local/Arduino15","sketchDirUri":"file:///c%3A/Users/Sepehr/Documents/Arduino","additionalUrls":[],"network":"none","locale":"en"}
+2026-06-22 18:15:19 2026-06-23T01:15:19.509Z config INFO Validating the CLI configuration...
+2026-06-22 18:15:19 2026-06-23T01:15:19.512Z config INFO The CLI config is valid.
+2026-06-22 18:15:19 2026-06-23T01:15:19.512Z config INFO <<< Initialized the CLI configuration.
+2026-06-22 18:15:19 2026-06-23T01:15:19.519Z daemon INFO time="2026-06-22T18:15:19-07:00" level=info msg="Starting download" url="https://downloads.arduino.cc/libraries/library_index.tar.bz2"
+2026-06-22 18:15:19 2026-06-23T01:15:19.533Z root INFO Resolve plugins list: 837.3 ms [Finished 1.604 s after backend start]
+2026-06-22 18:15:20 2026-06-23T01:15:20.283Z root INFO creating connection for 1
+2026-06-22 18:15:21 2026-06-23T01:15:21.282Z root WARN Frontend a.configure took longer than the expected maximum 100 milliseconds: 124.9 ms [Finished 2.206 s after frontend start]
+2026-06-22 18:15:21 2026-06-23T01:15:21.317Z root WARN A command editor.action.toggleStickyScroll is already registered.
+2026-06-22 18:15:21 Opening channel for service path '/services/electron-window'.
+2026-06-22 18:15:21 Opening channel for service path '/services/ide-updater'.
+2026-06-22 18:15:21 2026-06-23T01:15:21.440Z root INFO Start frontend contributions: 342.7 ms [Finished 2.353 s after frontend start]
+2026-06-22 18:15:21 2026-06-23T01:15:21.441Z root INFO Changed application state from 'init' to 'started_contributions'.
+2026-06-22 18:15:21 2026-06-23T01:15:21.450Z root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+2026-06-22 18:15:21 2026-06-23T01:15:21.450Z root INFO >>> Restoring the layout state...
+2026-06-22 18:15:22 2026-06-23T01:15:22.395Z root INFO Deploy plugins list: 3699.2 ms [Finished 4.466 s after backend start]
+2026-06-22 18:15:22 2026-06-23T01:15:22.399Z root INFO [5361d9b3-09a9-41c0-9dc1-89ef12a75e06] Waiting for backend deployment: 975.2 ms [Finished 3.322 s after frontend start]
+2026-06-22 18:15:22 2026-06-23T01:15:22.866Z root INFO [hosted-plugin: 19008] PLUGIN_HOST(19008) starting instance
+[Object: null prototype] {}
+2026-06-22 18:15:23 2026-06-23T01:15:23.372Z root INFO [5361d9b3-09a9-41c0-9dc1-89ef12a75e06] Sync of 23 plugins: 974.7 ms [Finished 4.296 s after frontend start]
+2026-06-22 18:15:40 2026-06-23T01:15:40.214Z root ERROR Detected an error response during the gRPC core client initialization: code: 3, message: Error downloading index 'https://downloads.arduino.cc/libraries/library_index.tar.bz2': Get "https://downloads.arduino.cc/libraries/library_index.tar.bz2": read tcp 192.168.1.5:64103->104.18.10.21:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026-06-22 18:15:40 2026-06-23T01:15:40.215Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Loading index file: loading json index file C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: The system cannot find the file specified.
+2026-06-22 18:15:40 2026-06-23T01:15:40.215Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Error loading hardware platform: discovery builtin:serial-discovery not found
+2026-06-22 18:15:40 2026-06-23T01:15:40.216Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Error loading hardware platform: discovery builtin:mdns-discovery not found
+2026-06-22 18:15:40 2026-06-23T01:15:40.216Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Loading index file: reading library_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\library_index.json: The system cannot find the file specified.
+2026-06-22 18:15:40 2026-06-23T01:15:40.220Z root ERROR The primary packages indexes are missing. Running indexes update before initializing the core gRPC client The index of the cores and libraries must be updated before initializing the core gRPC client.
+The following problems were detected during the gRPC client initialization:
+[platform-index] - code: 9, message: Loading index file: loading json index file C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\package_index.json: The system cannot find the file specified.
+[platform-index] - code: 9, message: Error loading hardware platform: discovery builtin:serial-discovery not found
+[platform-index] - code: 9, message: Error loading hardware platform: discovery builtin:mdns-discovery not found
+[library-index] - code: 9, message: Loading index file: reading library_index.json: open C:\Users\Sepehr\AppData\Local\Arduino15\library_index.json: The system cannot find the file specified.
+
+2026-06-22 18:15:40 2026-06-23T01:15:40.220Z daemon INFO time="2026-06-22T18:15:40-07:00" level=info msg="Loading hardware from: C:\\Users\\Sepehr\\AppData\\Local\\Arduino15\\packages"
+time="2026-06-22T18:15:40-07:00" level=info msg="Loading libraries index file" index="C:\\Users\\Sepehr\\AppData\\Local\\Arduino15\\library_index.json"
+time="2026-06-22T18:15:40-07:00" level=info msg="Adding libraries dir" dir="C:\\Users\\Sepehr\\AppData\\Local\\Arduino15\\libraries" isSingleLibrary=false location=ide
+time="2026-06-22T18:15:40-07:00" level=info msg="Adding libraries dir" dir="C:\\Users\\Sepehr\\Documents\\Arduino\\libraries" isSingleLibrary=false location=user
+2026-06-22 18:15:40 2026-06-23T01:15:40.221Z daemon INFO time="2026-06-22T18:15:40-07:00" level=info msg="Updating index" url="https://downloads.arduino.cc/packages/package_index.tar.bz2"
+2026-06-22 18:15:40 2026-06-23T01:15:40.222Z daemon INFO time="2026-06-22T18:15:40-07:00" level=info msg="Starting download" url="https://downloads.arduino.cc/packages/package_index.tar.bz2"
+2026-06-22 18:15:40 2026-06-23T01:15:40.222Z daemon INFO time="2026-06-22T18:15:40-07:00" level=info msg="Starting download" url="https://downloads.arduino.cc/libraries/library_index.tar.bz2"
+2026-06-22 18:15:40 2026-06-23T01:15:40.223Z root INFO core-client-provider [platform-index] Downloading index: package_index.tar.bz2
+
+2026-06-22 18:15:40 2026-06-23T01:15:40.224Z root INFO core-client-provider [library-index] Downloading index: library_index.tar.bz2
+
+2026-06-22 18:15:58 isTempSketch: false. Input was f:\Projects\LaserLink\Arduino\DigitalCalibration\DigitalCalibration.ino
+2026-06-22 18:15:58 Marking workspace as a closed sketch. Workspace URI: file:///f%3A/Projects/LaserLink/Arduino/DigitalCalibration/DigitalCalibration.ino. Date: 1782177358791.
+2026-06-22 18:15:58 Closing channel on service path '/services/electron-window'.
+2026-06-22 18:15:58 Closing channel on service path '/services/ide-updater'.
+2026-06-22 18:15:58 Storing the sketch as a workspace root: <f:\Projects\LaserLink\Arduino\DigitalCalibration\DigitalCalibration.ino>.
+2026-06-22 18:15:58 Stored workspaces roots: f:\Projects\LaserLink\Arduino\DigitalCalibration\DigitalCalibration.ino
+2026-06-22 18:15:58 No sketches were scheduled for deletion.
